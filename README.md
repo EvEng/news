@@ -5,7 +5,7 @@
 1. [Fork](https://help.github.com/articles/fork-a-repo/) eveng/students 
         - Start by [**forking** the students repository](https://github.com/eveng/students)
 1. [**Clone**][ref-clone] the repository to your computer (git clone https://github.com/yourGHid/students)
-1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by     your own netid in all lowercase). Please provide at least one sentence on your background and one sentence on what project you are already working on or a project you'd like to start work on for this class. 
+1. Introduce yourself via a netid.md file (do not create netid.md, but replace netid by     your own netid in all lowercase). Please provide at least one sentence on your background and one full paragraph explaining ether a project you are already working on or a project you'd like to work on for this class. 
 1. git add netid.md
 1. git commit -m 'adding my background information': You may be asked to provide your email and name for the git client if you have not used git before 
 1. git push
