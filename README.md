@@ -1,3 +1,8 @@
+## Recording of Jan 29 class
+   - [Recording](https://drive.google.com/file/d/18Homcm2EHQzq_9gY2yQ1N7fMsmOhpdiW/view?usp=sharing)
+   - [lecture](https://github.com/EvEng/papers/blob/master/course1.pdf)
+   - [list of papers](https://github.com/EvEng/papers)
+
 ## Due Mon Jan 14: Github Pull Request
 
 1. Sign up for [GitHub](https://github.com/) if not already signed
