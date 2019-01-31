@@ -2,6 +2,12 @@
    - [Recording](https://drive.google.com/file/d/18Homcm2EHQzq_9gY2yQ1N7fMsmOhpdiW/view?usp=sharing)
    - [lecture](https://github.com/EvEng/papers/blob/master/course1.pdf)
    - [list of papers](https://github.com/EvEng/papers)
+   - [Advance data analysis](http://www.stat.cmu.edu/%7Ecshalizi/ADAfaEPoV) 
+          see "1.4.1 The Bias-Variance Tradeoff", also 
+          Ch 2. The Truth about Linear Regression
+          Ch. 20 Graphical models
+   - [Neo4j](https://github.com/eveng/papers/raw/master/neo4j.md)
+   - [SVM/SVR](https://github.com/eveng/papers/raw/master/SVMandSVR.md)
 
 ## Due Mon Jan 14: Github Pull Request
 
