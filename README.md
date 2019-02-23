@@ -1,3 +1,12 @@
+## Presentations March 5
+   - Maria: LDA
+   - Jessie: big data
+   - Dustin: SVM & SVR
+   
+## Presentations Feb 26
+   - Dakota: Security (tentative)
+   - Emily: text feature representation (tentative)
+
 ## Recording of Jan 29 class
    - [Recording](https://drive.google.com/file/d/18Homcm2EHQzq_9gY2yQ1N7fMsmOhpdiW/view?usp=sharing)
    - [lecture](https://github.com/EvEng/papers/blob/master/course1.pdf)
