@@ -1,3 +1,6 @@
+## Presentations March 16
+   - Jerry: Chaos Monkey
+   
 ## Presentations March 5
    - Maria: LDA
    - Jessie: big data
@@ -6,6 +9,14 @@
 ## Presentations Feb 26
    - Dakota: Security (tentative)
    - Emily: text feature representation (tentative)
+
+## Presentations  Feb 12
+   - Andrey: WoC
+   - Daniel: Optimization
+   
+## Presentations Feb 4
+   - Shang: Deep learning for text
+
 
 ## Recording of Jan 29 class
    - [Recording](https://drive.google.com/file/d/18Homcm2EHQzq_9gY2yQ1N7fMsmOhpdiW/view?usp=sharing)
