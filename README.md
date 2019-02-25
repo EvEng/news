@@ -1,5 +1,9 @@
-## Presentations March 16
+## Presentations March 19
    - Jerry: Chaos Monkey
+   
+## Presentations March 12
+   - Emily: text feature representation (tentative)
+   
    
 ## Presentations March 5
    - Maria: LDA
@@ -7,8 +11,8 @@
    - Dustin: SVM & SVR
    
 ## Presentations Feb 26
-   - Dakota: Security (tentative)
-   - Emily: text feature representation (tentative)
+   - Dakota: Security
+   
 
 ## Presentations  Feb 12
    - Andrey: WoC
