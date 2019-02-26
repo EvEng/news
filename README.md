@@ -6,6 +6,7 @@
    
 ## Presentations March 12
    - Emily: text feature representation (tentative)
+   - Trish: Known Unknowns - testing recommender systems (tentative)
    
    
 ## Presentations March 5
