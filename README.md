@@ -3,18 +3,16 @@
 
 ## Presentations March 26
    - Evan: Recommender systems
-   - Jerry: Chaos Monkey
-      
+   - Jerry: Chaos Monkey      
    
 ## Presentations March 12
+   - Dustin: SVM & SVR
    - Emily: text feature representation (tentative)
    - Trish: Known Unknowns - testing recommender systems (tentative)
-   
-   
+      
 ## Presentations March 5
    - Maria: LDA
-   - Jessie: big data
-   - Dustin: SVM & SVR
+   - Jessie: big data  
    
 ## Presentations Feb 26
    - Dakota: Security
