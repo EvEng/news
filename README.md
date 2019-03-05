@@ -1,8 +1,10 @@
+## Presentations Apr 2
+   - Tanner: D3
+
 ## Presentations March 26
    - Evan: Recommender systems
-   
-## Presentations March 19
    - Jerry: Chaos Monkey
+      
    
 ## Presentations March 12
    - Emily: text feature representation (tentative)
