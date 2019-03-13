@@ -9,7 +9,7 @@
 ## Presentations March 12
    - Dustin: SVM & SVR
    - Emily: text feature representation (tentative)
-  
+   - [recording](https://drive.google.com/file/d/1cvovZ0fms-Y2dAQkobU7pmdd7gMv-CIN/view?usp=sharing)
       
 ## Presentations March 5
    - Maria: LDA
