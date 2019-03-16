@@ -1,3 +1,6 @@
+## Presentation Apr 9
+  - Guest presentation by Eduardo: computational aspects of Doc2Vec
+  
 ## Presentations Apr 2
    - Tanner: D3
 
