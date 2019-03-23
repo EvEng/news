@@ -3,10 +3,10 @@
   
 ## Presentations Apr 2
    - Tanner: D3
+   - Jerry: Chaos Monkey 
 
 ## Presentations March 26
    - Evan: Recommender systems
-   - Jerry: Chaos Monkey 
    - Trish: Known Unknowns - testing recommender systems (tentative)
    
 ## Presentations March 12
