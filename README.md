@@ -6,9 +6,9 @@
   - Guest presentation by Eduardo: computational aspects of Doc2Vec
   
 ## Presentations Apr 2
-   - Self Driving Cars: Gao 
    - Jerry: Chaos Monkey 
-
+   - Self Driving Cars: Shang
+   
 ## Presentations March 26
    - Evan: Recommender systems
    - Trish: Known Unknowns - testing recommender systems (tentative)
