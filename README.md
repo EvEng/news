@@ -1,8 +1,12 @@
+## Presentation Apr 16
+  - Image Processing: Ethan
+  - Tanner: D3
+  
 ## Presentation Apr 9
   - Guest presentation by Eduardo: computational aspects of Doc2Vec
   
 ## Presentations Apr 2
-   - Tanner: D3
+   - Self Driving Cars: Gao 
    - Jerry: Chaos Monkey 
 
 ## Presentations March 26
