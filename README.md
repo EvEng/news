@@ -1,3 +1,9 @@
+# Presentation on Apr 30 
+   - Applying text mining to detect opinions on climate change: Maria and Emily
+   
+# Presentation on Apr 23
+   - Self-organizing maps and applications in geospatial data: Lindsey
+ 
 ## Presentation Apr 16
   - Image Processing: Ethan
   - Tanner: D3
