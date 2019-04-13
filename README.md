@@ -3,9 +3,9 @@
    
 # Presentation on Apr 23
    - Self-organizing maps and applications in geospatial data: Linsey
-   
+   - Image Processing: Ethan
+     
 ## Presentation Apr 16
-  - Image Processing: Ethan
   - Tanner: D3
   
 ## Presentation Apr 9
