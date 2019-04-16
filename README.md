@@ -1,7 +1,7 @@
 # Useful info: 
    - [Recordigs of the classes](https://drive.google.com/drive/folders/1_iOLVaqHPhKTVYmIjAWr3fN7t9tBNbMI?usp=sharing)
-    - Zooom link: 276-644-8345
-    -  Course evaluations are open: https://utk.campuslabs.com/courseeval/    
+   - Zooom link: 276-644-8345
+   -  Course evaluations are open: https://utk.campuslabs.com/courseeval/    
     
 # Presentation on Apr 30 
    - Applying text mining to detect opinions on climate change: Maria and Emily
