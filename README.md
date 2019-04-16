@@ -1,5 +1,6 @@
 # Presentation on Apr 30 
    - Applying text mining to detect opinions on climate change: Maria and Emily
+   - Statistical analysis and some machine learning applications on interpreting Ribisome footprint data : Lu
    
 # Presentation on Apr 23
    - Self-organizing maps and applications in geospatial data: Linsey
