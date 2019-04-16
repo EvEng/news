@@ -1,5 +1,6 @@
 # Presentation on Apr 30 
    - Applying text mining to detect opinions on climate change: Maria and Emily
+   - Wrapping back on the World of Code and Developer Profiles: Andrey Karnauch
    
 # Presentation on Apr 23
    - Self-organizing maps and applications in geospatial data: Linsey
