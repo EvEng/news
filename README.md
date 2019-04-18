@@ -5,6 +5,7 @@
     
 # Presentation on Apr 30 
    - Applying text mining to detect opinions on climate change: Maria and Emily
+   - Daniel
    
 # Presentation on Apr 23
    - Self-organizing maps and applications in geospatial data: Linsey
